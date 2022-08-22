@@ -6,7 +6,20 @@ div {
     background-color: red;
     color: white;
     
-    font-size: 32px;
+    font-size: 40px;
     text-align: center;
     font-weight: bolder;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    background-color: orange;
+    font-size: 20px;
+
+    border-color: lightgray;
 }
